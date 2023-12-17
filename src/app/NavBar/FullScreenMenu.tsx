@@ -15,8 +15,10 @@ interface ActionSheetProps {
 
 const ActionSheet: React.FC<ActionSheetProps> = ({ isOpen, onClose }) => {
   const [activeMenu, setActiveMenu] = useState(menuOptionsFullScreen);
-  const [menuStack, setMenuStack] = useState([]);
-  const [breadcrumbPath, setBreadcrumbPath] = useState([]);
+  const [menuStack, setMenuStack] = useState<DropdownItem[][]>([]);
+
+  const [breadcrumbPath, setBreadcrumbPath] = useState<string[]>([]);
+
   const router = useRouter();
 
   const handleBack = () => {
