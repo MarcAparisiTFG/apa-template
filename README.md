@@ -20,17 +20,15 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+Hey! Here are some captures of the code and the live demo. This is my webpage where i put Layouts , components and more all animated with framer motion. Here's the basic layout if you want to copy it. 
 
-To learn more about Next.js, take a look at the following resources:
+![image](https://github.com/MarcAparisiTFG/apa-template/assets/77927009/46d27636-1043-47af-be63-679f642e9d1c)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Web versión layout:
+![image](https://github.com/MarcAparisiTFG/apa-template/assets/77927009/e3bf1f80-93b1-448c-9fc3-bb393bc3979d)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Mobile version: 
+![image](https://github.com/MarcAparisiTFG/apa-template/assets/77927009/6b062dca-628f-4610-9e0a-1ad9fab587e4)
+![image](https://github.com/MarcAparisiTFG/apa-template/assets/77927009/6cb9d57a-c6cb-4e9e-9a88-28a85a51cfd6)
+![Uploading image.png…]()
